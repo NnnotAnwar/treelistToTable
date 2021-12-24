@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "entity_type_code": "Organization",
+        "level": 1
+    },
+    {
+        "id": 2,
+        "entity_type_code": "Organization",
+        "level": 2
+    },
+    {
+        "id": 3,
+        "entity_type_code": "Organization",
+        "level": 2
+    },
+    {
+        "id": 4,
+        "entity_type_code": "Position",
+        "level": 3
+    },
+    {
+        "id": 5,
+        "entity_type_code": "Position",
+        "level": 3
+    },
+    {
+        "id": 6,
+        "entity_type_code": "Employee",
+        "level": 4
+    },
+    {
+        "id": 7,
+        "entity_type_code": "Employee",
+        "level": 4
+    },
+    {
+        "id": 8,
+        "entity_type_code": "Organization",
+        "level": 1
+    }
+]
