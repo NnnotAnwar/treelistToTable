@@ -1,2 +1,2 @@
 # treelistToGrid
-Preview: https://nnnotanwar.github.io/treelistToGrid/
+Preview: https://nnnotanwar.github.io/treelistToTable/
