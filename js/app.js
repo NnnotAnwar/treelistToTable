@@ -7,8 +7,8 @@ $(function () {
     let dataSource = new kendo.data.TreeListDataSource({
         transport: {
             read: {
-                // url: crudServiceBaseUrl + '/EmployeeDirectory',
-                url: crudServiceBaseUrl + '/EmployeeDirectory/All',
+                // url: crudServiceBaseUrl + '/EmployeeDirectory/All',
+                url: crudServiceBaseUrl + '/EmployeeDirectory',
                 dataType: 'jsonp'
             }
         },
